@@ -1,0 +1,10 @@
+.cherry {
+  justify-content: center;
+  display: flex;
+}
+#hf1 {
+  color: orange;
+}
+#hf2 {
+  color: whitesmoke;
+}
