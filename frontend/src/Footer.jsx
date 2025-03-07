@@ -1,5 +1,10 @@
+import "./header.css"
 function Footer() {
-  return <h1>Footer</h1>;
+  return <>
+    <footer>
+      <h1 className="hf1">Footer</h1>
+  </footer>
+  </>
 }
 
 export default Footer;

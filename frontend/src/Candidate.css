@@ -1,0 +1,22 @@
+.candiboard{
+
+    display:flex;
+
+
+}
+.photo{
+    width:100%;
+
+}
+.umeedwar{
+    margin: 5px;
+    padding:10px;
+    border:1px solid white;
+    border-radius: 5px;
+   
+    justify-items: center;
+     color:antiquewhite;
+
+     width:200px ;
+
+}
